@@ -145,7 +145,7 @@ Human-Activity-PCA/
 📙 Kaggle Dataset
 
 👤 Author
-Behrouz Yousefi
+Behrouz Yousefzadeh
 
 GitHub: @behrouzyou
 
